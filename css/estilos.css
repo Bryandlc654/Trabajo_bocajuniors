@@ -23,7 +23,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(11, 49, 175, 0.5) 0%, rgba(3, 6, 49, 0.5) 100%),url(/img/boca_juniors.jpg);
+    background-image: linear-gradient(to top, rgba(11, 49, 175, 0.5) 0%, rgba(3, 6, 49, 0.5) 100%),url(../img/boca_juniors.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
